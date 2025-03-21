@@ -1,18 +1,14 @@
 # java-refresh-2025 学习资料总概况
 ## 一、JAVA语言
-### 标识符
-### 运算符
-### 数据类型
-### 控制语句
-### 面向对象(封装、继承、多态)
-
-### 类的关系：泛化关系、实现关系、关联关系、依赖关系、聚合关系、组合关系
-
-### 泛型类
-
-### 内部类
-
-### 访问控制权限修饰符：public、protected、缺省、private
+	-标识符
+ 	-运算符
+	-数据类型
+	-控制语句
+	-面向对象(封装、继承、多态)
+	-类的关系：泛化关系、实现关系、关联关系、依赖关系、聚合关系、组合关系
+	泛型类
+	内部类
+	访问控制权限修饰符：public、protected、缺省、private
 
 ### 方法：方法重载、方法重写
 
@@ -29,15 +25,9 @@
 				String
 				StringBuilder
 					StringBuffer(安全)
-			创建对象方式
-				new对象
-				clone()方法
-				反射newInstance()方法
-				反序列化readObject()方法
-			传递类型方式
-				值传递/引用传递
-			比较类型方式
-				==/equals/Comparable
+		创建对象方式：new对象、clone()方法、反射newInstance()方法、反序列化readObject()方法
+		传递类型方式：值传递/引用传递
+		比较类型方式：==/equals/Comparable
 		集合类
 		IO/NIO
 		多线程
