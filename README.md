@@ -1,6 +1,6 @@
 # java-refresh-2025
-java学习资料总概况
-	一、JAVA语言
+##java学习资料总概况
+	###一、JAVA语言
 		标识符
 		运算符
 		数据类型
