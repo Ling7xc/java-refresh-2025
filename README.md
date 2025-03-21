@@ -1,4 +1,4 @@
-# java-refresh-2025 学习资料总概况
+# java-refresh-2025 学习资料总概况 更多内容查看csdn博客Mr_Ling123[link](https://blog.csdn.net/Mr_Ling123/article/details/129375387)
 ## 一、JAVA语言
 - 标识符
 - 运算符
@@ -17,6 +17,7 @@
 - 传递类型方式：值传递/引用传递
 - 比较类型方式：==/equals/Comparable
 - 集合类(数据结构)
+	- [image name](https://i-blog.csdnimg.cn/blog_migrate/b5c96640fe3473d593bbf4f07a8147e3.png)
 	- 树
  	- 数组
   	- 排序
